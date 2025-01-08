@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about_me.md", title: "about me"}
   - {file: "publications.md", title: "publications"}
   - {file: "creative_works.md", title: "creative works"}
-  - {file: "post.html", title: "posts"}
+  - {file: "posts.html", title: "posts"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amcclain@gwue.edu"}

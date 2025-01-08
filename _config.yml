@@ -12,6 +12,9 @@ show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+theme_color: "#f45"
+primary_color: "#3a3a3a"
+background_color: "#ffffff"
 
 # Menu
 

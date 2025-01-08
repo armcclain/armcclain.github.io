@@ -1,3 +1,4 @@
+
 title: "hi! i'm abby mcclain"
 author: "abby mcclain"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
@@ -16,10 +17,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", title: "home"}
   - {file: "about_me.md", title: "about me"}
   - {file: "publications.md", title: "publications"}
   - {file: "creative_works.md", title: "creative works"}
-  - {file: "posts.html", title: "posts"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amcclain@gwue.edu"}

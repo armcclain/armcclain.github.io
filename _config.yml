@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "home"}
-  - {file: "README.md", title: "about me"}
+  - {file: "about_me.md", title: "about me"}
   - {file: "publications.md", title: "publications"}
-  - {file: "my_works.md", title: "creative works"}
+  - {file: "creative_works.md", title: "creative works"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:amcclain@gwue.edu"}

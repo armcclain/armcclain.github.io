@@ -1,6 +1,6 @@
 title: "hi! i'm abby mcclain"
 author: "abby mcclain"
-description: "Made with <3 style=\"color: #f45;\">&lt;3</b>"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

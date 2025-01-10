@@ -18,10 +18,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about_me.md", title: "about me"}
+  - {file: "public_promo.md", title: "as seen in"}
   - {file: "publications.md", title: "publications"}
   - {file: "creative_works.md", title: "creative works"}
-  - {file: "public_promo.md", title: "as seen in"}
-
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

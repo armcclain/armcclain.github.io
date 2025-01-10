@@ -1,7 +1,7 @@
 ---
 title: "as seen in"
 layout: page
-permalink: /as seen in/
+permalink: /as seen in/ 
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
   

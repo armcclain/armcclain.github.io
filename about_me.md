@@ -4,9 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+i am a behavioral ecologist interested in how <span style="color: #8A6A95;">death</span> and <span style="color: #8A6A95;">loss</span> in social groups can inform what we know about <span style="color: #8A6A95;">social bonds </span> in nonhuman species
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+
 
 ## Features
 

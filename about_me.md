@@ -15,8 +15,8 @@ before my phd, i worked with the indiana department of natural resources herpeto
 want to chat? you can find me on [linkedin!](https://www.linkedin.com/in/abigail-mcclain) in the meantime, you can catch up with my latest [publications](https://armcclain.github.io/publications/) and [creative projects](https://armcclain.github.io/creative%20works/) and find my [cv](https://github.com/user-attachments/files/18370120/McClain_Abigail_2pg_CV_JAN_2025.pdf) here
 
 
-- <a href="[https://github.com/yourusername/your-repository/blob/main/path/to/cv.pdf](https://github.com/user-attachments/files/18370120/McClain_Abigail_2pg_CV_JAN_2025.pdf)" style="color: #8A6A95;">cv</a>
+- <a href="(https://github.com/user-attachments/files/18370120/McClain_Abigail_2pg_CV_JAN_2025.pdf)" style="color: #8A6A95;">cv</a>
 
 - <a href="https://armcclain.github.io/publications/" style="color: #8A6A95;">publications</a>
 
-- <a href="[https://github.com/yourusername/your-repository/creative-works](https://armcclain.github.io/creative%20works/)" style="color: #8A6A95;">creative works</a> 
+- <a href="(https://armcclain.github.io/creative%20works/)" style="color: #8A6A95;">creative works</a> 

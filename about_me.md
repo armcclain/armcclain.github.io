@@ -7,7 +7,7 @@ i am a behavioral ecologist interested in how death and loss in social groups ca
 
 right now you can find me working on my phd at the george washington university <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology" style="color: #38897f;">**primate behavioral ecology lab**</a> in washington, dc and in the field at <a href="https://janegoodall.ca/what-we-do/africa-programs/gombe-stream-research-centre/" style="color: #38897f;">**gombe national park**</a>, tanzania. my work is funded by the national science foundation, the leakey foundation, american society of mammalogists, and gw anthropology department.  
 
-my recent projects explore the influence of friendship on space use in wild primates analyzing geospatial and behavioral data from the world's longest running great ape dataset
+my recent projects explore the influence of friendship on space use in wild primates analyzing geospatial and behavioral data from the world's longest running great ape dataset.
 
 before my phd, i worked with the indiana department of natural resources herpetology and nongame mammals teams surveying indiana's endangered reptile and mammal species.  
 

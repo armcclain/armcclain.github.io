@@ -8,8 +8,6 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 
 ## select projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
-
 ![Hart Foam Poster Print (3)](https://github.com/user-attachments/assets/ba370982-70ff-447f-be86-80ee9bc45a23)
 
 ![Large Square sign -- downstairs 48 x 48  (2)](https://github.com/user-attachments/assets/f53f856d-65e8-4a31-887d-3fed6d8be2ac)

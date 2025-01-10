@@ -3,7 +3,6 @@ title: "about me"
 permalink: /about me/
 layout: page
 --- 
-
 i am a behavioral ecologist interested in how ***death*** and ***loss*** in social groups can inform what we know about ***social bonds*** in nonhuman species. 
 
 right now you can find me working on my phd at the george washington university <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology" style="color: #38897f;">**primate behavioral ecology lab**</a> in washington, dc and in the field at <a href="https://janegoodall.ca/what-we-do/africa-programs/gombe-stream-research-centre/" style="color: #38897f;">**gombe national park**</a>, tanzania. my work is funded by the national science foundation, the leakey foundation, american society of mammalogists, and gw anthropology department.  

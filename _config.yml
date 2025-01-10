@@ -2,7 +2,7 @@
 title: "hi! i'm abby mcclain"
 author: "abby mcclain"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: "/about/"
+permalink: title: "about me"
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:amcclain@gwue.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:amcclain@gwu.edu"}
   - {title: Github, icon: github, url: "https://github.com/armcclain"}
   - {title: Twitter, icon: twitter, url: "/feed.xml"}
 

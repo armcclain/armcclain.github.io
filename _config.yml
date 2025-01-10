@@ -17,7 +17,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "about_me.md", title: "about me"}
   - {file: "publications.md", title: "publications"}
   - {file: "creative_works.md", title: "creative works"}
   - {file: "public_promo.md", title: "as seen in"}

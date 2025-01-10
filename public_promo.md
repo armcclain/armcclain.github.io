@@ -25,8 +25,8 @@ permalink: /as seen in/
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">So proud of lab member Abby McClain for her poster presentation examining agent based modeling as a tool for understanding social learning in chimpanzees!! 🐵🎉 <a href="https://twitter.com/ASPvoice?ref_src=twsrc%5Etfw">@ASPvoice</a> <a href="https://twitter.com/hashtag/ASPReno2023?src=hash&amp;ref_src=twsrc%5Etfw">#ASPReno2023</a> <a href="https://t.co/BWoQR2D8rR">pic.twitter.com/BWoQR2D8rR</a></p>&mdash; GW Primate Behavior Lab (@gwmurraylab) <a href="https://twitter.com/gwmurraylab/status/1672245111881871362?ref_src=twsrc%5Etfw">June 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div>
-<img width="775" alt="nsf_promo" src="https://github.com/user-attachments/assets/4cf8e026-f529-4c5d-b07f-daea23c598cb" />
-
+<a href="https://biology.indiana.edu/news-events/news/2021/nsf-grfp-recipients.html" target="_blank">
+  <img width="775" alt="nsf_promo" src="https://github.com/user-attachments/assets/4cf8e026-f529-4c5d-b07f-daea23c598cb" />
+</a>
 
 

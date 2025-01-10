@@ -2,7 +2,7 @@
 title: "hi! i'm abby mcclain"
 author: "abby mcclain"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
-permalink: /
+permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"

@@ -56,7 +56,7 @@ layout: page
 
     <p>before my phd, i worked with the indiana department of natural resources herpetology and nongame mammals teams surveying indiana's endangered reptile and mammal species.</p>
 
-    <p>want to chat? you can find me on <a href="https://www.linkedin.com/in/abigail-mcclain" style="color: #840032;"><strong>linkedin</strong></a>! in the meantime, you can catch up with my latest <a href="https://armcclain.github.io/publications/" style="color: #840032;"><strong>publications</strong></a> and <a href="https://armcclain.github.io/creative%20works/" style="color: #840032;"><strong>creative works</strong></a> and find my <a href="https://github.com/user-attachments/files/18370120/McClain_Abigail_2pg_CV_JAN_2025.pdf" style="color: #840032;"><strong>cv</strong></a> here.</p>
+    <p>want to chat? you can find me on <a href="https://www.linkedin.com/in/abigail-mcclain" style="color: #840032;"><strong>linkedin</strong></a>! in the meantime, you can catch up with my latest <a href="https://armcclain.github.io/publications/" style="color: #840032;"><strong>publications</strong></a> and <a href="https://armcclain.github.io/creative%20works/" style="color: #840032;"><strong>creative works</strong></a> and find my <a href="https://github.com/user-attachments/files/18383936/McClain_Abigail_2pg_CV_JAN_2025.pdf" style="color: #840032;"><strong>cv</strong></a> here.</p>
 
   </div>
 

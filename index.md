@@ -3,7 +3,7 @@ title: "about me"
 permalink: /
 layout: page
 --- 
-
+    
 <img src="https://github.com/user-attachments/assets/d733de93-f5a5-4a5b-8028-a6e5e4335336" alt="Abigail McClain Headshot" style="float: left; margin-right: 20px; border-radius: 50%; max-width: 200px; height: auto;">
 
 i am a behavioral ecologist interested in how death and loss in social groups can inform what we know about social bonds in nonhuman species. 

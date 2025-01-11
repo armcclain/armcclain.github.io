@@ -4,6 +4,45 @@ permalink: /about me/
 layout: page
 --- 
 
+<style>
+  /* General Styling for Desktop */
+  .content-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+  }
+
+  .content-container img {
+    max-width: 250px;
+    height: auto;
+  }
+
+  .content-container div {
+    flex: 1;
+    max-width: 600px;
+  }
+
+  /* Mobile-specific Styles */
+  @media (max-width: 768px) {
+    .content-container {
+      flex-direction: column; /* Stack vertically */
+      align-items: center; /* Center horizontally */
+    }
+
+    .content-container img {
+      margin-top: 20px; /* Add space above the image */
+      order: 2; /* Move the image to the bottom (end) */
+    }
+
+    .content-container div {
+      max-width: 100%; /* Allow text to fill the available space */
+      order: 1; /* Ensure text stays on top */
+    }
+  }
+</style>
+
+
 <div style="display: flex; align-items: center; justify-content: flex-end; gap: 20px;">
 
   <!-- Text Content -->

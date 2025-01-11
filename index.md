@@ -20,10 +20,9 @@ my recent projects explore the influence of friendship on space use in wild prim
 before my phd, i worked with the indiana department of natural resources herpetology and nongame mammals teams surveying indiana's endangered reptile and mammal species.  
 
 
-want to chat? you can find me on <a href="https://www.linkedin.com/in/abigail-mcclain" style="color: #840032;">**linkedin**</a>! in the meantime, you can catch up with my latest <a href="https://armcclain.github.io/publications/" style="color: #840032;">**publications**</a> and 
+want to chat? you can find me on <a href="https://www.linkedin.com/in/abigail-mcclain" style="color: #840032;">**linkedin**</a>! in the meantime, you can catch up with my latest <a href="https://armcclain.github.io/publications/" style="color: #840032;">**publications**</a> and <a href="https://armcclain.github.io/creative%20works/" style="color: #840032;">**creative works**</a> and find my <a href="https://github.com/user-attachments/files/18370120/McClain_Abigail_2pg_CV_JAN_2025.pdf" style="color: #840032;">**cv**</a> here.
 
 
-    <a href="https://armcclain.github.io/creative%20works/" style="color: #840032;">**creative works**</a> and find my <a href="https://github.com/user-attachments/files/18370120/McClain_Abigail_2pg_CV_JAN_2025.pdf" style="color: #840032;">**cv**</a> here.
   </div>
 
   <!-- Headshot Image -->

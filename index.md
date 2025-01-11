@@ -4,6 +4,45 @@ permalink: /
 layout: page
 --- 
 
+<style>
+  /* Mobile-specific Styles */
+  @media (max-width: 768px) {
+    .content-container {
+      flex-direction: column; /* Stack the content vertically */
+      align-items: center; /* Center the content horizontally */
+    }
+
+    .content-container img {
+      margin-left: 0; /* Remove margin between text and image on mobile */
+      margin-bottom: 20px; /* Add space below the image */
+    }
+
+    .content-container div {
+      max-width: 100%; /* Allow text to fill available space */
+    }
+  }
+
+  /* General Styling */
+  .content-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .content-container img {
+    max-width: 250px;
+    height: auto;
+  }
+
+  .content-container div {
+    flex: 1;
+    max-width: 600px;
+  }
+</style>
+
+
 <div style="display: flex; align-items: center; justify-content: flex-end; gap: 20px;">
 
   <!-- Text Content -->

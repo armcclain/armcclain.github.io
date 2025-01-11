@@ -3,7 +3,7 @@ title: "about me"
 permalink: /
 layout: page
 --- 
-
+  
 <style>
   /* General Styling for Desktop */
   .content-container {

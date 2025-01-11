@@ -4,7 +4,7 @@ permalink: "/creative works/"
 layout: page
 ---
 
-in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming
+in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming. this space is a work in progress still — stay tuned for exciting updates soon.
 
 ## select projects
 

@@ -43,8 +43,8 @@ layout: page
 </style>
 
 
-<div style="display: flex; align-items: center; justify-content: flex-end; gap: 20px;">
-
+<div class="content-container">
+  
   <!-- Text Content -->
   <div style="flex: 1; max-width: 600px;">
     

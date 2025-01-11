@@ -5,30 +5,12 @@ layout: page
 --- 
 
 <style>
-  /* Mobile-specific Styles */
-  @media (max-width: 768px) {
-    .content-container {
-      flex-direction: column; /* Stack the content vertically */
-      align-items: center; /* Center the content horizontally */
-    }
-
-    .content-container img {
-      margin-left: 0; /* Remove margin between text and image on mobile */
-      margin-bottom: 20px; /* Add space below the image */
-    }
-
-    .content-container div {
-      max-width: 100%; /* Allow text to fill available space */
-    }
-  }
-
-  /* General Styling */
+  /* General Styling for Desktop */
   .content-container {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: flex-start;
     gap: 20px;
-    flex-wrap: wrap;
   }
 
   .content-container img {
@@ -39,6 +21,24 @@ layout: page
   .content-container div {
     flex: 1;
     max-width: 600px;
+  }
+
+  /* Mobile-specific Styles */
+  @media (max-width: 768px) {
+    .content-container {
+      flex-direction: column; /* Stack vertically */
+      align-items: center; /* Center horizontally */
+    }
+
+    .content-container img {
+      margin-top: 20px; /* Add space above the image */
+      order: 2; /* Move the image to the bottom (end) */
+    }
+
+    .content-container div {
+      max-width: 100%; /* Allow text to fill the available space */
+      order: 1; /* Ensure text stays on top */
+    }
   }
 </style>
 

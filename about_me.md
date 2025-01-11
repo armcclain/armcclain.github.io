@@ -1,5 +1,5 @@
 ---
-title: <span style="color: red;">about me</span>
+title: "about me"
 permalink: /about me/
 layout: page
 --- 

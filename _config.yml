@@ -24,9 +24,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:amcclain@gwu.edu"}
   - {title: Github, icon: github, url: "https://github.com/armcclain"}
+  - {title: Instagram, icon: instagram, url: "https://www.instagram.com/the_primate_diaries/?igsh=dHhtM2F2ZXMxdWNv&utm_source=qr#"}
   - {title: Spotify, icon: spotify, url: "https://open.spotify.com/user/abimccla?si=f2e2eaa623f5494d&nd=1&dlsi=2e987cd6a31a42b7"}
+  
+
+ 
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

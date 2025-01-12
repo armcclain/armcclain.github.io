@@ -31,28 +31,47 @@ nav a
   color: #840032 /* Match your theme */
 
 /* Mobile */
-@media (max-width: 768px) /* Target screens 768px wide or smaller */
-  body > header, body > footer
-    flex-direction: column /* Stack header and footer elements */
-    align-items: flex-start /* Align to the left */
-
+@media (max-width: 768px)
   nav
-    margin: 1em 0 /* Add vertical spacing around nav links */
+    position: relative /* Required for dropdown positioning */
+    margin: 0
 
-  nav a
-    display: block /* Stack navigation links vertically */
-    margin: .5em 0 /* Add space between links */
+  /* Hamburger Button */
+  .menu-toggle
+    display: block
+    background: none
+    border: none
+    font-size: 1.5em
+    cursor: pointer
+    margin: 0 0 1em
+    color: #840032
 
-  article
-    padding: 1em /* Reduce padding for smaller screens */
+  /* Hide links by default */
+  nav ul
+    display: none
+    list-style: none
+    padding: 0
+    margin: 0
+    background-color: white
+    border: 1px solid #ccc
+    border-radius: 4px
+    position: absolute
+    top: 3em
+    left: 0
+    width: 100% /* Full width on mobile */
 
-  article header h1
-    font-size: 1.5em /* Slightly smaller font size */
+  /* Show links when toggled */
+  nav ul.open
+    display: block
 
-  /* Optional: Adjust text alignment for readability */
-  article header, article
+  /* Adjust individual links */
+  nav ul li a
+    display: block
+    padding: 10px
+    border-bottom: 1px solid #eee
+    color: #840032
     text-align: left
 
-  /* Optional: Add more padding for touch targets */
-  nav a
-    padding: 10px
+  /* Last link without a border */
+  nav ul li:last-child a
+    border-bottom: none

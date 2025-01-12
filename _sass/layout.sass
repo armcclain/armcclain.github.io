@@ -1,17 +1,18 @@
+/* Desktop Styles */
 body
   display: flex
   flex-direction: column
+  min-height: 100vh /* Ensure full height on all screens */
 
 article
   flex-grow: 1
+  padding: 1.5em
 
 body > header, body > footer
   display: flex
   flex-wrap: wrap
   align-items: center
   justify-content: space-between
-
-body > header, body > article, body > footer
   padding: 1.5em
 
 article header
@@ -26,3 +27,32 @@ nav
 
 nav a
   margin: .5em 1.2em
+  text-decoration: none /* Optional: Remove underline */
+  color: #840032 /* Match your theme */
+
+/* Mobile */
+@media (max-width: 768px) /* Target screens 768px wide or smaller */
+  body > header, body > footer
+    flex-direction: column /* Stack header and footer elements */
+    align-items: flex-start /* Align to the left */
+
+  nav
+    margin: 1em 0 /* Add vertical spacing around nav links */
+
+  nav a
+    display: block /* Stack navigation links vertically */
+    margin: .5em 0 /* Add space between links */
+
+  article
+    padding: 1em /* Reduce padding for smaller screens */
+
+  article header h1
+    font-size: 1.5em /* Slightly smaller font size */
+
+  /* Optional: Adjust text alignment for readability */
+  article header, article
+    text-align: left
+
+  /* Optional: Add more padding for touch targets */
+  nav a
+    padding: 10px

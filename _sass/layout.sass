@@ -1,4 +1,4 @@
-/* Desktop Styles */
+/* Base (Desktop) Styles */
 body
   display: flex
   flex-direction: column
@@ -30,48 +30,30 @@ nav a
   text-decoration: none /* Optional: Remove underline */
   color: #840032 /* Match your theme */
 
-/* Mobile */
+/* Mobile-Specific Styles */
 @media (max-width: 768px)
+  body > header, body > footer
+    flex-direction: row
+    flex-wrap: wrap
+    justify-content: space-between
+    align-items: center
   nav
-    position: relative /* Required for dropdown positioning */
-    margin: 0
+    margin: 1em 0 /* Add vertical spacing around nav links */
 
-  /* Hamburger Button */
-  .menu-toggle
-    display: block
-    background: none
-    border: none
-    font-size: 1.5em
-    cursor: pointer
-    margin: 0 0 1em
-    color: #840032
+  nav a
+    display: block /* Stack navigation links vertically */
+    margin: .5em 0 /* Add space between links */
 
-  /* Hide links by default */
-  nav ul
-    display: none
-    list-style: none
-    padding: 0
-    margin: 0
-    background-color: white
-    border: 1px solid #ccc
-    border-radius: 4px
-    position: absolute
-    top: 3em
-    left: 0
-    width: 100% /* Full width on mobile */
+  article
+    padding: 1em /* Reduce padding for smaller screens */
 
-  /* Show links when toggled */
-  nav ul.open
-    display: block
+  article header h1
+    font-size: 1.5em /* Slightly smaller font size */
 
-  /* Adjust individual links */
-  nav ul li a
-    display: block
-    padding: 10px
-    border-bottom: 1px solid #eee
-    color: #840032
+  /* Optional: Adjust text alignment for readability */
+  article header, article
     text-align: left
 
-  /* Last link without a border */
-  nav ul li:last-child a
-    border-bottom: none
+  /* Optional: Add more padding for touch targets */
+  nav a
+    padding: 10px

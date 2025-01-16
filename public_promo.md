@@ -4,6 +4,8 @@ layout: page
 permalink: /as seen in/ 
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Major congratulations are in order for lab member Abby McClain! She was recently awarded both an <a href="https://twitter.com/NSF?ref_src=twsrc%5Etfw">@NSF</a> DDRIG and a <a href="https://twitter.com/TheLeakeyFndtn?ref_src=twsrc%5Etfw">@TheLeakeyFndtn</a> grant for her dissertation work on social bonds and loss in wild chimpanzees! Looking forward to the beginning of your field season soon, Abby! <a href="https://t.co/F8bxrDbP25">pic.twitter.com/F8bxrDbP25</a></p>&mdash; GW Primate Behavior Lab (@gwmurraylab) <a href="https://twitter.com/gwmurraylab/status/1879972952818741346?ref_src=twsrc%5Etfw">January 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
 <blockquote class="twitter-tweet">
   <p lang="en" dir="ltr">

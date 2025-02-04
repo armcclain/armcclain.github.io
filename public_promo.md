@@ -5,8 +5,6 @@ permalink: /as seen in/
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
 
-<embed src="https://leakeyfoundation.org/fall-2024-research-grant/" style="width:500px; height: 300px;">
-
 <a href="https://leakeyfoundation.org/fall-2024-research-grant/" target="_blank">
   <img width="775" alt="nsf_promo" 
        src="https://github.com/user-attachments/assets/6d063012-4a9c-41ee-b627-c12495ac991e" 

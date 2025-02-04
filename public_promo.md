@@ -7,10 +7,9 @@ permalink: /as seen in/
 
 <a href="https://leakeyfoundation.org/fall-2024-research-grant/" target="_blank">
   <img width="775" alt="nsf_promo" 
-       src="https://github.com/user-attachments/assets/6d063012-4a9c-41ee-b627-c12495ac991e" 
+       src="https://github.com/user-attachments/assets/99953fe5-dd53-4894-9193-46a29ba70a9b" 
        style="border-radius: 15px;" />
 </a>
-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Major congratulations are in order for lab member Abby McClain! She was recently awarded both an <a href="https://twitter.com/NSF?ref_src=twsrc%5Etfw">@NSF</a> DDRIG and a <a href="https://twitter.com/TheLeakeyFndtn?ref_src=twsrc%5Etfw">@TheLeakeyFndtn</a> grant for her dissertation work on social bonds and loss in wild chimpanzees! Looking forward to the beginning of your field season soon, Abby! <a href="https://t.co/F8bxrDbP25">pic.twitter.com/F8bxrDbP25</a></p>&mdash; GW Primate Behavior Lab (@gwmurraylab) <a href="https://twitter.com/gwmurraylab/status/1879972952818741346?ref_src=twsrc%5Etfw">January 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   

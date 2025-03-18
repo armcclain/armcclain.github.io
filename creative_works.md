@@ -38,14 +38,12 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   border-radius: 8px;
 }
 
-/* Move pagination BELOW the carousel and center it */
-.swiper-pagination {
-  position: absolute;
-  bottom: -40px; /* Moves it below the swiper */
-  left: 50%; /* Centers it horizontally */
-  transform: translateX(-50%); /* Ensures it is exactly centered */
-  z-index: 10;
-}
+/* Move pagination BELOW the carousel */
+  .swiper-pagination {
+    position: relative;
+    bottom: -50px; /* Moves it further below */
+    z-index: 10;
+  }
 
 /* Default dot color */
 .swiper-pagination-bullet {
@@ -88,8 +86,8 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 /* Hover effect */
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
-  background: #d43f00;
-  opacity: 1;
+  background: #809454;
+  opacity: 0.5;
 }
 
   

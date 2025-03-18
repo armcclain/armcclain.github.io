@@ -69,18 +69,18 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   align-items: center;
   opacity: 0.8;
   transition: 0.3s ease-in-out;
-  position: absolute;
-  bottom: -80px; /* Move arrows further down below the carousel */
+  position: relative;
+  bottom: -60px; /* Move arrows further down below the carousel */
   z-index: 10;
 }
 
 .swiper-button-next {
-  right: calc(50% + 60px); /* Positioned to the right of the pagination dots */
+  right: calc(50% + 90px); /* Positioned to the right of the pagination dots */
 }
 
 /* Position 'prev' arrow on the left */
 .swiper-button-prev {
-  left: calc(50% - 60px); /* Positioned to the left of the pagination dots */
+  left: calc(50% - 90px); /* Positioned to the left of the pagination dots */
 }
 
 /* Hover effect */

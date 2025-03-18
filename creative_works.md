@@ -86,7 +86,6 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 /* Hover effect */
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
-  background: #809454;
   opacity: 1;
 }
 

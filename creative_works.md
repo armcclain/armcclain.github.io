@@ -11,84 +11,87 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
 <style>
-  .swiper-container {
-    width: 100%;
-    max-width: 800px;
-    margin: auto;
-    padding-bottom: 40px; /* Extra space for pagination */
-  }
+ .swiper-container {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  padding-bottom: 40px; /* Extra space for pagination */
+  position: relative; /* Required for positioning arrows correctly */
+}
 
-  .swiper-wrapper {
-    display: flex;
-  }
+.swiper-wrapper {
+  display: flex;
+}
 
-  .swiper-slide {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-  .swiper-slide img {
-    max-width: 100%;
-    max-height: 80vh;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-    border-radius: 8px;
-  }
+.swiper-slide img {
+  max-width: 100%;
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+}
 
-  /* Move pagination BELOW the carousel */
-  .swiper-pagination {
-    position: relative;
-    bottom: -50px; /* Moves it further below */
-    z-index: 10;
-  }
+/* Move pagination BELOW the carousel and center it */
+.swiper-pagination {
+  position: absolute;
+  bottom: -40px; /* Moves it below the swiper */
+  left: 50%; /* Centers it horizontally */
+  transform: translateX(-50%); /* Ensures it is exactly centered */
+  z-index: 10;
+}
 
-  /* Default dot color */
+/* Default dot color */
 .swiper-pagination-bullet {
-  background: gray; /* Change this to any color */
-  opacity: 0.5; /* Optional: Make inactive dots slightly transparent */
+  background: gray;
+  opacity: 0.5;
 }
 
 /* Active (highlighted) dot color */
 .swiper-pagination-bullet-active {
-  background: #850032; /* Change this to any color */
-  opacity: 1; /* Fully visible */
+  background: #850032;
+  opacity: 1;
 }
+
 /* Default arrow styles */
 .swiper-button-next,
 .swiper-button-prev {
-  color: #850032; /* Change this to any color */
+  color: #850032; /* Arrow color */
   border-radius: 50%;
   width: 50px; /* Arrow size */
   height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
-  opacity: 0.8; /* Slight transparency */
+  opacity: 0.8;
   transition: 0.3s ease-in-out;
   position: absolute;
-  top: 50%; /* Position arrows vertically centered */
-  transform: translateY(-50%); /* Adjust vertical position to perfect center */
+  top: 50%; /* Vertically center the arrows */
+  transform: translateY(-50%); /* Fine-tunes the vertical centering */
 }
 
-/* Move the 'next' arrow closer to the center */
+/* Adjust position of 'next' and 'prev' buttons */
 .swiper-button-next {
-  right: 20px; /* Move it to the right */
+  right: 20px; /* Move the 'next' arrow closer to the center */
 }
 
-/* Move the 'prev' arrow closer to the center */
 .swiper-button-prev {
-  left: 20px; /* Move it to the left */
+  left: 20px; /* Move the 'prev' arrow closer to the center */
 }
 
 /* Hover effect */
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
-  background: #d43f00; /* Darker color on hover */
+  background: #d43f00;
   opacity: 1;
 }
-}
+
   
 </style>
 

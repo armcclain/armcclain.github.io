@@ -1,17 +1,68 @@
 ---
 title: "creative works"
-permalink: "/creative works/"
+permalink: "/creative-works/"
 layout: page
 ---
 
-in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming. this space is a work in progress still — stay tuned for exciting updates soon.
+<head>
+  <!-- Swiper.js CDN -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
+  />
+  <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+  <style>
+    .swiper-container {
+      width: 100%;
+      max-width: 800px;
+      height: 450px;
+      margin: auto;
+    }
+    .swiper-slide img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+  </style>
+</head>
 
-## select projects
+<h2>Select Projects</h2>
 
-![Hart Foam Poster Print (3)](https://github.com/user-attachments/assets/ba370982-70ff-447f-be86-80ee9bc45a23)
+<!-- Swiper Carousel -->
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      <img src="https://github.com/user-attachments/assets/ba370982-70ff-447f-be86-80ee9bc45a23" alt="Hart Foam Poster Print" />
+    </div>
+    <div class="swiper-slide">
+      <img src="https://github.com/user-attachments/assets/f53f856d-65e8-4a31-887d-3fed6d8be2ac" alt="Large Square Sign" />
+    </div>
+    <div class="swiper-slide">
+      <img src="https://github.com/user-attachments/assets/e42e7276-77db-4e96-ae89-20fc1ac4855a" alt="Can I Sleep in Your Brain" />
+    </div>
+  </div>
+  
+  <!-- Navigation Buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+  
+  <!-- Pagination Dots -->
+  <div class="swiper-pagination"></div>
+</div>
 
-![Large Square sign -- downstairs 48 x 48  (2)](https://github.com/user-attachments/assets/f53f856d-65e8-4a31-887d-3fed6d8be2ac)
-
-![CAN I SLEEP IN YOUR BRAIN](https://github.com/user-attachments/assets/e42e7276-77db-4e96-ae89-20fc1ac4855a)
-
-
+<script>
+  var swiper = new Swiper(".swiper-container", {
+    loop: true,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    autoplay: {
+      delay: 3000,
+    },
+  });
+</script>

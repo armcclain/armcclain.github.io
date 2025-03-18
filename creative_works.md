@@ -23,8 +23,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 
   .swiper-pagination {
   position: absolute;
-  bottom: 10px; /* Moves the dots closer to the bottom */
-  left: 50%;
+  bottom: 1px; /* Moves the dots closer to the bottom */
   transform: translateX(-50%);
   z-index: 10;
 }
@@ -41,7 +40,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
     width: auto;
     height: auto;
     object-fit: contain;
-    border-radius: 8px;
+    border-radius: 3px;
   }
 </style>
 
@@ -87,7 +86,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 <script>
   var swiper = new Swiper(".swiper-container", {
     loop: true,
-    spaceBetween: 10, // Reduced space between slides
+    spaceBetween: 3, // Reduced space between slides
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",

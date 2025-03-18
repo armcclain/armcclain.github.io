@@ -60,7 +60,8 @@ alt="Primatology" />
       <img src="https://github.com/user-attachments/assets/e127deab-311e-43a2-a6df-678c4cf75083" alt="Archaeology" />
     </div>
       div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/ff6f7746-7416-4731-8849-f7f94fd656fd" alt="Mind/Brain" />
+      <img src="https://github.com/user-attachments/assets/1b9987d9-55bc-4cb2-b891-1825e6ec214a"
+alt="Mind/Brain" />
     </div>
       div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/98e95945-1ceb-492c-a135-e4e293100325" alt="Paleoarchaeology" />

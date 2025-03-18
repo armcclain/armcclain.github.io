@@ -60,6 +60,35 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 .swiper-button-next,
 .swiper-button-prev {
   color: #850032; /* Change this to any color */
+  border-radius: 50%;
+  width: 50px; /* Arrow size */
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8; /* Slight transparency */
+  transition: 0.3s ease-in-out;
+  position: absolute;
+  top: 50%; /* Position arrows vertically centered */
+  transform: translateY(-50%); /* Adjust vertical position to perfect center */
+}
+
+/* Move the 'next' arrow closer to the center */
+.swiper-button-next {
+  right: 20px; /* Move it to the right */
+}
+
+/* Move the 'prev' arrow closer to the center */
+.swiper-button-prev {
+  left: 20px; /* Move it to the left */
+}
+
+/* Hover effect */
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background: #d43f00; /* Darker color on hover */
+  opacity: 1;
+}
 }
   
 </style>

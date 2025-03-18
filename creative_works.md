@@ -69,7 +69,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   align-items: center;
   opacity: 0.5;
   transition: 0.3s ease-in-out;
-  position: relative;
+  position: absolute;
   bottom: -50px; /* Moves it further below */
   transform: translateY(-50%); /* Fine-tunes the vertical centering */
 }

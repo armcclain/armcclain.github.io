@@ -78,10 +78,6 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 }
 </style>
 
-
-  
-</style>
-
 <h2>select projects</h2>
 
 <!-- Swiper Carousel -->

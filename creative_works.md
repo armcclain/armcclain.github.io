@@ -75,7 +75,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 }
 
 .swiper-button-next {
-  right: -250px; /* Positioned to the right of the pagination dots */
+  right: 250px; /* Positioned to the right of the pagination dots */
 }
 
 /* Position 'prev' arrow on the left */

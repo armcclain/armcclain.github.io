@@ -69,19 +69,23 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   align-items: center;
   opacity: 0.8;
   transition: 0.3s ease-in-out;
-  position: relative;
+  position: absolute;
   bottom: -60px; /* Move arrows further down below the carousel */
   z-index: 10;
 }
 
+/* Right arrow positioning (keeping it at the current position) */
 .swiper-button-next {
-  right: 500px; /* Positioned to the right of the pagination dots */
+  right: 50%; /* Align to the right of the center */
+  transform: translateX(50%); /* Shift 50% to the right */
 }
 
-/* Position 'prev' arrow on the left */
+/* Left arrow positioning (mirror image of the right arrow) */
 .swiper-button-prev {
-  left: 250px; /* Positioned to the left of the pagination dots */
+  left: 50%; /* Align to the left of the center */
+  transform: translateX(-50%); /* Shift 50% to the left */
 }
+
 
 /* Hover effect */
 .swiper-button-next:hover,

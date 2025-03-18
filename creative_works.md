@@ -11,6 +11,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
 <style>
+ <style>
  .swiper-container {
   width: 100%;
   max-width: 800px;
@@ -56,6 +57,26 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   background: #850032;
   opacity: 1;
 }
+
+/* Style for the arrows */
+.swiper-button-prev,
+.swiper-button-next {
+  color: #850032; /* Change the arrow color */
+  position: absolute;
+  bottom: 10px; /* Position arrows at the bottom */
+  z-index: 10;
+  font-size: 24px; /* Adjust arrow size */
+}
+
+/* You can customize the appearance more by adding background or borders */
+.swiper-button-prev {
+  left: 10px; /* Position the previous arrow to the left */
+}
+
+.swiper-button-next {
+  right: 10px; /* Position the next arrow to the right */
+}
+</style>
 
 
   

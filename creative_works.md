@@ -60,7 +60,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 /* Default arrow styles */
 .swiper-button-next,
 .swiper-button-prev {
- color: #850032; /* Arrow color */
+  color: #850032; /* Arrow color */
   border-radius: 50%;
   width: 50px; /* Arrow size */
   height: 50px;
@@ -69,19 +69,18 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   align-items: center;
   opacity: 0.8;
   transition: 0.3s ease-in-out;
-  position: relative;
-  bottom: -60px; /* Move arrows below the carousel */
-  transform: translateX(-50%); /* Center the arrows horizontally */
+  position: absolute;
+  bottom: -80px; /* Move arrows further down below the carousel */
   z-index: 10;
 }
 
-/* Adjust position of 'next' and 'prev' buttons */
 .swiper-button-next {
-  right: 20px; /* Move the 'next' arrow closer to the center */
+  right: calc(50% + 60px); /* Positioned to the right of the pagination dots */
 }
 
+/* Position 'prev' arrow on the left */
 .swiper-button-prev {
-  left: 20px; /* Move the 'prev' arrow closer to the center */
+  left: calc(50% - 60px); /* Positioned to the left of the pagination dots */
 }
 
 /* Hover effect */

@@ -60,18 +60,19 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 /* Default arrow styles */
 .swiper-button-next,
 .swiper-button-prev {
-  color: #850032; /* Arrow color */
+ color: #850032; /* Arrow color */
   border-radius: 50%;
   width: 50px; /* Arrow size */
   height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
-  opacity: 0.5;
+  opacity: 0.8;
   transition: 0.3s ease-in-out;
-  position: absolute;
-  bottom: -50px; /* Moves it further below */
-  transform: translateY(-50%); /* Fine-tunes the vertical centering */
+  position: relative;
+  bottom: -60px; /* Move arrows below the carousel */
+  transform: translateX(-50%); /* Center the arrows horizontally */
+  z-index: 10;
 }
 
 /* Adjust position of 'next' and 'prev' buttons */

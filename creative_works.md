@@ -66,7 +66,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   height: 50px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: bottom;
   opacity: 0.8;
   transition: 0.3s ease-in-out;
   position: absolute;

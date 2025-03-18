@@ -61,6 +61,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 .swiper-button-next,
 .swiper-button-prev {
   color: #850032; /* Arrow color */
+  opacity: 0.5;
   border-radius: 50%;
   width: 50px; /* Arrow size */
   height: 50px;
@@ -87,7 +88,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 .swiper-button-next:hover,
 .swiper-button-prev:hover {
   background: #809454;
-  opacity: 0.5;
+  opacity: 1;
 }
 
   

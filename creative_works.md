@@ -11,7 +11,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
 
 <style>
- <style>
+
  .swiper-container {
   width: 100%;
   max-width: 800px;

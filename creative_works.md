@@ -15,18 +15,12 @@ in my free time you will find me fiddling with hex codes and designing graphics 
     width: 100%;
     max-width: 800px;
     margin: auto;
-  }
-  
-  .swiper-wrapper {
-    display: flex; /* Ensures all slides are in one row */
+    padding-bottom: 40px; /* Extra space for pagination */
   }
 
-  .swiper-pagination {
-  position: absolute;
-  bottom: 1px; /* Moves the dots closer to the bottom */
-  transform: translateX(-50%);
-  z-index: 10;
-}
+  .swiper-wrapper {
+    display: flex;
+  }
 
   .swiper-slide {
     display: flex;
@@ -40,7 +34,16 @@ in my free time you will find me fiddling with hex codes and designing graphics 
     width: auto;
     height: auto;
     object-fit: contain;
-    border-radius: 3px;
+    border-radius: 8px;
+  }
+
+  /* Move pagination BELOW the carousel */
+  .swiper-pagination {
+    position: relative;
+    bottom: -20px; /* Moves it further below */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
   }
 </style>
 
@@ -78,15 +81,15 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   <!-- Navigation Buttons -->
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
-
-  <!-- Pagination Dots -->
-  <div class="swiper-pagination"></div>
 </div>
+
+<!-- Pagination Outside the Carousel -->
+<div class="swiper-pagination"></div>
 
 <script>
   var swiper = new Swiper(".swiper-container", {
     loop: true,
-    spaceBetween: 3, // Reduced space between slides
+    spaceBetween: 10, // Reduce space between slides
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
@@ -96,8 +99,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
       clickable: true,
     },
     autoplay: {
-      delay: 5000, // Increased slide duration to 5 seconds
+      delay: 5000, // Increase slide duration to 5 seconds
     },
   });
 </script>
-

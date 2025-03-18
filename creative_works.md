@@ -41,7 +41,6 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   .swiper-pagination {
     position: relative;
     bottom: -50px; /* Moves it further below */
-    transform: translateX(-50%);
     z-index: 10;
   }
 

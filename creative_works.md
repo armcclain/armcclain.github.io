@@ -40,11 +40,28 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   /* Move pagination BELOW the carousel */
   .swiper-pagination {
     position: relative;
-    bottom: -20px; /* Moves it further below */
-    left: 50%;
+    bottom: -50px; /* Moves it further below */
     transform: translateX(-50%);
     z-index: 10;
   }
+
+  /* Default dot color */
+.swiper-pagination-bullet {
+  background: gray; /* Change this to any color */
+  opacity: 0.5; /* Optional: Make inactive dots slightly transparent */
+}
+
+/* Active (highlighted) dot color */
+.swiper-pagination-bullet-active {
+  background: #850032; /* Change this to any color */
+  opacity: 1; /* Fully visible */
+}
+/* Default arrow styles */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #850032; /* Change this to any color */
+}
+  
 </style>
 
 <h2>select projects</h2>
@@ -89,7 +106,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 <script>
   var swiper = new Swiper(".swiper-container", {
     loop: true,
-    spaceBetween: 10, // Reduce space between slides
+    spaceBetween: 3, // Reduce space between slides
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
@@ -99,7 +116,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
       clickable: true,
     },
     autoplay: {
-      delay: 5000, // Increase slide duration to 5 seconds
+      delay: 7000, // Increase slide duration to 5 seconds
     },
   });
 </script>

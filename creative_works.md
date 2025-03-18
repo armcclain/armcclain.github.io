@@ -21,6 +21,14 @@ in my free time you will find me fiddling with hex codes and designing graphics 
     display: flex; /* Ensures all slides are in one row */
   }
 
+  .swiper-pagination {
+  position: absolute;
+  bottom: 10px; /* Moves the dots closer to the bottom */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
   .swiper-slide {
     display: flex;
     justify-content: center;
@@ -79,6 +87,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 <script>
   var swiper = new Swiper(".swiper-container", {
     loop: true,
+    spaceBetween: 10, // Reduced space between slides
     navigation: {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
@@ -88,7 +97,8 @@ in my free time you will find me fiddling with hex codes and designing graphics 
       clickable: true,
     },
     autoplay: {
-      delay: 3000,
+      delay: 5000, // Increased slide duration to 5 seconds
     },
   });
 </script>
+

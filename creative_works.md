@@ -57,41 +57,6 @@ in my free time you will find me fiddling with hex codes and designing graphics 
   opacity: 1;
 }
 
-/* Default arrow styles */
-.swiper-button-next,
-.swiper-button-prev {
-  color: #850032; /* Arrow color */
-  border-radius: 50%;
-  width: 50px; /* Arrow size */
-  height: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: bottom;
-  opacity: 0.8;
-  transition: 0.3s ease-in-out;
-  position: absolute;
-  bottom: -60px; /* Move arrows further down below the carousel */
-  z-index: 10;
-}
-
-/* Right arrow positioning (keeping it at the current position) */
-.swiper-button-next {
-  right: 50%; /* Align to the right of the center */
-  transform: translateX(50%); /* Shift 50% to the right */
-}
-
-/* Left arrow positioning (mirror image of the right arrow) */
-.swiper-button-prev {
-  left: 50%; /* Align to the left of the center */
-  transform: translateX(-50%); /* Shift 50% to the left */
-}
-
-
-/* Hover effect */
-.swiper-button-next:hover,
-.swiper-button-prev:hover {
-  opacity: 1;
-}
 
   
 </style>

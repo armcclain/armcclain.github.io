@@ -61,16 +61,16 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 .swiper-button-next,
 .swiper-button-prev {
   color: #850032; /* Arrow color */
-  opacity: 0.5;
   border-radius: 50%;
   width: 50px; /* Arrow size */
   height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
-  opacity: 0.8;
+  opacity: 0.5;
   transition: 0.3s ease-in-out;
   position: absolute;
+  bottom: -50px
   top: 50%; /* Vertically center the arrows */
   transform: translateY(-50%); /* Fine-tunes the vertical centering */
 }

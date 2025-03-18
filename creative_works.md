@@ -75,12 +75,12 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 }
 
 .swiper-button-next {
-  right: calc(center + 50px); /* Positioned to the right of the pagination dots */
+  right: 480px; /* Positioned to the right of the pagination dots */
 }
 
 /* Position 'prev' arrow on the left */
 .swiper-button-prev {
-  left: calc(center - 50px); /* Positioned to the left of the pagination dots */
+  left: 840px; /* Positioned to the left of the pagination dots */
 }
 
 /* Hover effect */

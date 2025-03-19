@@ -25,18 +25,19 @@ permalink: /as seen in/
        style="border-radius: 15px;" />
 </a>
 
-<a>
-  <img width="775" alt="proposaldefense" 
-       src="https://github.com/user-attachments/assets/ea190482-afa7-460f-97b8-9643e245f0e6"
-       style="border-radius: 15px;" />
-</a>
-
 
 <a>
   <img width="775" alt="poster" 
        src="https://github.com/user-attachments/assets/8c19c7a4-7505-4cc4-8669-6610914d5dec"
        style="border-radius: 15px;" />
 </a>
+
+<a>
+  <img width="775" alt="proposaldefense" 
+       src="https://github.com/user-attachments/assets/ea190482-afa7-460f-97b8-9643e245f0e6"
+       style="border-radius: 15px;" />
+</a>
+
 
 <a>
   <img width="775" alt="journalclub" 

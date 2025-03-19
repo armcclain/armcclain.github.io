@@ -12,6 +12,7 @@ permalink: /as seen in/
 </a>
 
 
+
 <a>
   <img width="775" alt="grants" 
        src="https://github.com/user-attachments/assets/6fe51a35-1a81-4029-b301-9670bc9db48a" 
@@ -20,7 +21,7 @@ permalink: /as seen in/
 
 <a>
   <img width="775" alt="girlswhocode" 
-       src="https://github.com/user-attachments/assets/6fe51a35-1a81-4029-b301-9670bc9db48a"
+       src="https://github.com/user-attachments/assets/fcaf4b99-38b1-4224-85ea-42db42e75499"
        style="border-radius: 15px;" />
 </a>
 

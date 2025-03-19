@@ -33,14 +33,14 @@ permalink: /as seen in/
 
 
 <a>
-  <img width="775" alt="journalclub" 
-       src="https://github.com/user-attachments/assets/3fd72abb-fea3-4a28-bfd4-7adcf59ad77c"
+  <img width="775" alt="poster" 
+       src="https://github.com/user-attachments/assets/8c19c7a4-7505-4cc4-8669-6610914d5dec"
        style="border-radius: 15px;" />
 </a>
 
 <a>
   <img width="775" alt="journalclub" 
-       src="https://github.com/user-attachments/assets/8c19c7a4-7505-4cc4-8669-6610914d5dec"
+       src="https://github.com/user-attachments/assets/3fd72abb-fea3-4a28-bfd4-7adcf59ad77c"
        style="border-radius: 15px;" />
 </a>
 

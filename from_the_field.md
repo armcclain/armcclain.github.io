@@ -106,9 +106,10 @@ to learn more about life at Gombe head over to <a href="https://www.instagram.co
       <img src="https://github.com/user-attachments/assets/e9f96b88-d11a-45ad-a9be-cf0614f787a8" alt="Sunset" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/ca5c8cc5-ec25-4fdd-8f5d-da40b7f3cebe" alt="Schwali" />
+      <img src="https://github.com/user-attachments/assets/b2258b73-2664-4728-80c4-40d68573fe9e" alt="Schwali" />
     </div>
   </div>
+
 
 
   <!-- Navigation Buttons -->

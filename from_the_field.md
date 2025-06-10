@@ -1,4 +1,4 @@
-![3F4411AD-6837-4C8C-BD69-F568B1637C8F_1_102_o](https://github.com/user-attachments/assets/a523ef74-b72d-42d8-9ccd-c3fe7dee2524)---
+---
 title: "from the field"
 permalink: "/from-the-field/"
 layout: page
@@ -88,7 +88,7 @@ to learn more about life at Gombe head over to <a href="https://www.instagram.co
       <img src="https://github.com/user-attachments/assets/e05021ad-40c8-44e7-a23c-bcf00a882d07" alt="Abby Follow" />
     </div>
     <div class="swiper-slide">
-      <img src=" " alt="Large Square Sign" />
+      <img src="https://github.com/user-attachments/assets/479f06d8-adf4-49dd-85d3-3f3fbccc11ee" alt="Termite" />
     </div>
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/4cf453dd-9a7b-4677-8325-652d3671a5e5" alt="Fadhila et al" />

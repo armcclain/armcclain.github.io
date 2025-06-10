@@ -1,4 +1,4 @@
----
+![3F4411AD-6837-4C8C-BD69-F568B1637C8F_1_102_o](https://github.com/user-attachments/assets/a523ef74-b72d-42d8-9ccd-c3fe7dee2524)---
 title: "from the field"
 permalink: "/from-the-field/"
 layout: page
@@ -80,34 +80,36 @@ to learn more about life at Gombe head over to <a href="https://www.instagram.co
 
 <h2>select projects</h2>
 
+
 <!-- Swiper Carousel -->
 <div class="swiper-container">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/ba370982-70ff-447f-be86-80ee9bc45a23" alt="Hart Foam Poster Print" />
+      <img src="https://github.com/user-attachments/assets/e05021ad-40c8-44e7-a23c-bcf00a882d07" alt="Abby Follow" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/f53f856d-65e8-4a31-887d-3fed6d8be2ac" alt="Large Square Sign" />
+      <img src=" " alt="Large Square Sign" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/e42e7276-77db-4e96-ae89-20fc1ac4855a" alt="Can I Sleep in Your Brain" />
+      <img src="https://github.com/user-attachments/assets/4cf453dd-9a7b-4677-8325-652d3671a5e5" alt="Fadhila et al" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/ff6f7746-7416-4731-8849-f7f94fd656fd" alt="CASHP 25" />
+      <img src="https://github.com/user-attachments/assets/14e610ce-1d07-4819-bc83-5cfdb14a0307" alt=" Tanga Honey" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/5f6a6da3-7e6a-43eb-9227-31571331c840" alt="Primatology" />
+      <img src="https://github.com/user-attachments/assets/0151df5f-fdb5-4df6-95cc-43548d8e5bfa" alt="Sims and Abby" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/e127deab-311e-43a2-a6df-678c4cf75083" alt="Archaeology" />
+      <img src="https://github.com/user-attachments/assets/cf8d68eb-8d48-4f40-a1b4-7afba4408070" alt="Abby and Fudge" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/c010d3dd-6322-488a-999b-34f60f173270" alt="Mind/Brain" />
+      <img src="https://github.com/user-attachments/assets/e9f96b88-d11a-45ad-a9be-cf0614f787a8" alt="Sunset" />
     </div>
     <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/98e95945-1ceb-492c-a135-e4e293100325" alt="Paleoarchaeology" />
+      <img src="https://github.com/user-attachments/assets/ca5c8cc5-ec25-4fdd-8f5d-da40b7f3cebe" alt="Schwali" />
     </div>
   </div>
+
 
   <!-- Navigation Buttons -->
   <div class="swiper-button-prev"></div>

@@ -4,7 +4,7 @@ permalink: "/from-the-field/"
 layout: page
 ---
 
-to learn more about life at Gombe head over to <a href="https://www.instagram.com/the_primate_diaries/?igsh=dHhtM2F2ZXMxdWNv&utm_source=qr#" style="color: #840032;"><strong>instagram</strong></a>! In the meanwhile, here are some highlights.
+to learn more about life at Gombe head over to <a href="https://www.instagram.com/the_primate_diaries/?igsh=dHhtM2F2ZXMxdWNv&utm_source=qr#" style="color: #840032;"><strong>instagram</strong></a>. in the meanwhile, here are some highlights.
 
 <!-- Swiper.js CDN -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
@@ -77,8 +77,6 @@ to learn more about life at Gombe head over to <a href="https://www.instagram.co
   right: 10px; /* Position the next arrow to the right */
 }
 </style>
-
-<h2>select projects</h2>
 
 
 <!-- Swiper Carousel -->

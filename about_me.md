@@ -48,7 +48,7 @@ layout: page
   <!-- Text Content -->
   <div style="flex: 1; max-width: 600px;">
     
-    <p>i am a behavioral ecologist interested in how death and loss in social groups can inform what we know about social bonds in nonhuman species.</p>
+    <p>i am a behavioral ecologist interested in how death and loss in social groups can inform what we know about social bonds in nonhuman species.</p> 
     
     <p>right now you can find me working on my phd at george washington university's <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology" style="color: #840032;"><strong>primate behavioral ecology lab</strong></a> in washington, dc and in the field at <a href="https://janegoodall.ca/what-we-do/africa-programs/gombe-stream-research-centre/" style="color: #840032;"><strong>gombe national park</strong></a>, tanzania. my work is funded by the national science foundation, the leakey foundation, the american society of mammalogists, and the gw anthropology department.</p>
 

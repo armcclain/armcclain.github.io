@@ -19,7 +19,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   ##- {file: "about_me.md", title: "about me"} ##
   - {file: "public_promo.md", title: "as seen in"}
-  - {file: "from_the_field.md", title: "from the field}
+  - {file: "from_the_field.md", title: "from the field"}
   - {file: "publications.md", title: "publications"}
   - {file: "creative_works.md", title: "creative works"}
 

@@ -4,7 +4,7 @@ permalink: "/creative-works/"
 layout: page
 ---
 
-in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming. this space is a work in progress still — stay tuned for exciting updates soon.
+in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming. want to talk art and science? drop me a line. 
 
 <!-- Swiper.js CDN -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />

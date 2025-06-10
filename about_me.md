@@ -62,7 +62,7 @@ layout: page
   </div>
 
   <!-- Headshot Image -->
-  <img src="https://github.com/user-attachments/assets/d733de93-f5a5-4a5b-8028-a6e5e4335336" 
+  <img src="https://github.com/user-attachments/assets/52eb4238-a3a2-4568-b283-a66bda612d24" 
        alt="Abigail McClain Headshot" 
        style="max-width: 250px; height: auto;">
 </div>

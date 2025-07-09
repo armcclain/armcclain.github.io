@@ -59,9 +59,8 @@ layout: page
     <p>want to chat? you can find me on <a href="https://www.linkedin.com/in/abigail-mcclain" style="color: #840032;"><strong>linkedin</strong></a>! in the meantime, you can catch up with my latest <a href="https://armcclain.github.io/publications/" style="color: #840032;"><strong>publications</strong></a> and <a href="https://armcclain.github.io/creative%20works/" style="color: #840032;"><strong>creative works</strong></a> and find my <a href="https://github.com/user-attachments/files/18383961/McClain_Abigail_2pg_CV_JAN_2025.pdf" style="color: #840032;"><strong>cv</strong></a> here.</p>
 
   </div>
-
   <!-- Headshot Image -->
-  <img src="https://github.com/user-attachments/assets/d733de93-f5a5-4a5b-8028-a6e5e4335336" 
+  <img src="https://github.com/user-attachments/assets/bc3f183b-ae00-4046-a221-89bd701ed581" 
        alt="Abigail McClain Headshot" 
        style="max-width: 250px; height: auto;">
 </div>

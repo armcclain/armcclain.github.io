@@ -2,7 +2,7 @@
 title: "about me"
 permalink: /about me/
 layout: page
---- 
+---  
 
 <style>
   /* General Styling for Desktop */

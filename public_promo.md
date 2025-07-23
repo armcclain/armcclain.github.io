@@ -5,8 +5,17 @@ permalink: /as seen in/
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
 
+
+<a href="https://news.janegoodall.org/2025/07/11/voices-of-gombe-what-comes-next/">
+  <img width="775" alt="voices_of_gombe" 
+       src="https://github.com/user-attachments/assets/f06abf8a-31d5-488f-8806-a9867c9599ad" 
+       style="border-radius: 15px;" />
+</a>
+
+
+
 <a href="https://leakeyfoundation.org/fall-2024-research-grant/" target="_blank">
-  <img width="775" alt="nsf_promo" 
+  <img width="775" alt="leakey_promo" 
        src="https://github.com/user-attachments/assets/99953fe5-dd53-4894-9193-46a29ba70a9b" 
        style="border-radius: 15px;" />
 </a>

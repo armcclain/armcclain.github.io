@@ -18,13 +18,11 @@ Drivers of range shifts in female wild eastern chimpanzees (*P. t. schweinfurthi
 
 Losing a friend: how death events impact social behavior of wild eastern chimpanzees at Gombe National Park. 
 
-### in prep
 
 Nelson, R.S., **McClain A.R.**, Bosha R., & Murray C. M.
 
 Spatiotemporal Variation in Water Availability and Quality Across Gombe National Park, Tanzania in relation to Female Chimpanzee (Pan troglodytes) Space Use
 
-### in prep
 
 **McClain A.R.**, Patton S. M., Bosha R., Mazogo Y., Mjungu, D. C., & Murray C. M.
 

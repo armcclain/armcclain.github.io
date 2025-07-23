@@ -1,6 +1,6 @@
 ---
-title: "creative works"
-permalink: "/creative-works/"
+title: "design"
+permalink: "/design/"
 layout: page
 ---
 

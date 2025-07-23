@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "public_promo.md", title: "as seen in"}
   - {file: "from_the_field.md", title: "from the field"}
   - {file: "publications.md", title: "publications"}
-  - {file: "creative_works.md", title: "creative works"}
+  - {file: "creative_works.md", title: "design"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

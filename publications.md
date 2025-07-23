@@ -18,7 +18,7 @@ layout: page
 
 
 Nelson, R.S., **McClain A.R.**, Bosha R., & Murray C. M.<br>
-	<span class="tab">Spatiotemporal Variation in Water Availability and Quality Across Gombe National Park, Tanzania in relation to Female Chimpanzee (Pan troglodytes) Space Use. <span>
+	<span class="tab">Spatiotemporal Variation in Water Availability and Quality Across Gombe National Park, Tanzania in relation to Female Chimpanzee (*P. troglodytes*) Space Use. <span>
 
 
 **McClain A.R.**, Patton S. M., Bosha R., Mazogo Y., Mjungu, D. C., & Murray C. M.<br>

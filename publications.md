@@ -8,20 +8,20 @@ layout: page
 
 ### in review
 
-**McClain A.R.**, Foerster S., Feldblum, J. F., Walker K. S., Mjungu, D. C., Pusey A. E., & Murray C. M.\n
+**McClain A.R.**, Foerster S., Feldblum, J. F., Walker K. S., Mjungu, D. C., Pusey A. E., & Murray C. M. <br>
 	<span class="tab">Drivers of range shifts in female wild eastern chimpanzees (*P. t. schweinfurthii*) following female death events. <span>
 
 ### in prep
 
-**McClain A.R.**, Mjungu, D. C., Pusey A. E., & Murray C. M. \n
+**McClain A.R.**, Mjungu, D. C., Pusey A. E., & Murray C. M.<br>
 	<span class="tab">Losing a friend: how death events impact social behavior of wild eastern chimpanzees at Gombe National Park. <span>
 
 
-Nelson, R.S., **McClain A.R.**, Bosha R., & Murray C. M.\n
+Nelson, R.S., **McClain A.R.**, Bosha R., & Murray C. M.<br>
 	<span class="tab">Spatiotemporal Variation in Water Availability and Quality Across Gombe National Park, Tanzania in relation to Female Chimpanzee (Pan troglodytes) Space Use. <span>
 
 
-**McClain A.R.**, Patton S. M., Bosha R., Mazogo Y., Mjungu, D. C., & Murray C. M.\n
+**McClain A.R.**, Patton S. M., Bosha R., Mazogo Y., Mjungu, D. C., & Murray C. M.<br>
 	<span class="tab">Validating field methods for quanitfication of urinary cortisol in wild chimpanzees. <span> 
 
 ## conference presentations

@@ -50,7 +50,7 @@ layout: page
     
     <p>i am a behavioral ecologist interested in how death and loss in social groups can inform what we know about social bonds in nonhuman species.</p>
     
-    <p>right now you can find me working on my phd at george washington university's <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology" style="color: #840032;"><strong>primate behavioral ecology lab</strong></a> in washington, dc and in the field at <a href="https://janegoodall.ca/what-we-do/africa-programs/gombe-stream-research-centre/" style="color: #840032;"><strong>gombe national park</strong></a>, tanzania. my work is funded by the national science foundation, the leakey foundation, the american society of mammalogists, and the gw anthropology department.</p>
+ <p>right now you can find me working on my phd at george washington university's <a href="https://cashp.columbian.gwu.edu/primate-behavioral-ecology" style="color: #840032;"><strong>primate behavioral ecology lab</strong></a> in washington, dc and in the field at <a href="https://janegoodall.ca/what-we-do/africa-programs/gombe-stream-research-centre/" style="color: #840032;"><strong>gombe national park</strong></a>, tanzania. my work is funded by the national science foundation, the <a href="https://leakeyfoundation.org/fall-2024-research-grant/" style="color: #840032;"><strong>leakey foundation</strong></a> , the american society of mammalogists, and the gw anthropology department.</p>
 
     <p>my recent projects explore the influence of friendship on space use in wild primates — analyzing geospatial and behavioral data from the world's longest running great ape dataset.</p>
 

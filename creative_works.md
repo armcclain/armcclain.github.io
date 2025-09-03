@@ -6,6 +6,12 @@ layout: page
 
 in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming. want to talk art and science? drop me a line. 
 
+<h2> design request form </h2>
+looking for help on your next conference poster or graphical abstract? i provide internal scientific figure and illustration consulting for the gw department of anthropology and center for the advanced study of human paleobiology. please fill out <a href="https://forms.gle/z6iCFrp91VSD4P3m8" style="color: #840032;"><strong>this form</strong></a> to get started!
+
+
+
+
 <!-- Swiper.js CDN -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>

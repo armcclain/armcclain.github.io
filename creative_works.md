@@ -9,7 +9,7 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 <h2> design request form </h2>
 looking for help on your next conference poster or graphical abstract? i provide internal scientific figure and illustration consulting for the gw department of anthropology and center for the advanced study of human paleobiology. please fill out <a href="https://forms.gle/z6iCFrp91VSD4P3m8" style="color: #840032;"><strong>this form</strong></a> to get started!
 
-
+</div>
 
 
 <!-- Swiper.js CDN -->

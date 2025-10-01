@@ -28,7 +28,7 @@ Nelson, R.S., **McClain A.R.**, Bosha R., & Murray C. M.<br>
 
 ### american society of primatologists annual meeting - chicago, il - 2025
 podium talk: Drivers of range shifts in female wild eastern chimpanzees (*P. t. schweinfurthii*)<br>
-**awarded outstanding podium presentation award**
+**outstanding podium presentation award**
 
 <img src="https://github.com/user-attachments/assets/a0c4221c-9e19-4656-af99-57ba829b8822" alt="ASP 2025" style="width: 100%; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
 

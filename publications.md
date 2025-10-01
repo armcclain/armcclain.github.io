@@ -14,7 +14,7 @@ layout: page
 ### in prep
 
 **McClain A.R.**, Mjungu, D. C., Pusey A. E., & Murray C. M.<br>
-	<span class="tab">Losing a friend: how death events impact social behavior of wild eastern chimpanzees at Gombe National Park. <span>
+	<span class="tab">Evidence of social compensation following the death of social partners in wild chimpanzees. <span>
 
 
 Nelson, R.S., **McClain A.R.**, Bosha R., & Murray C. M.<br>

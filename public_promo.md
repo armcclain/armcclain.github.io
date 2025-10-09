@@ -7,7 +7,7 @@ permalink: /as seen in/
 
 <a href="https://leakeyfoundation.org/abby-mcclain-examining-grief-and-loss-at-gombe/">
   <img width="775" alt="leakey_feature" 
-       src="https://github.com/user-attachments/assets/dc866fb5-f33f-43f2-93f6-7f44a90f8765" 
+       src="https://github.com/user-attachments/assets/cdd86060-dbc9-4b22-89c2-22c7e13f9032" 
        style="border-radius: 15px;" />
 </a>
 

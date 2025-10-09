@@ -5,6 +5,11 @@ permalink: /as seen in/
 ---
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
 
+<a href="https://leakeyfoundation.org/abby-mcclain-examining-grief-and-loss-at-gombe/">
+  <img width="775" alt="leakey_feature" 
+       src="https://github.com/user-attachments/assets/dc866fb5-f33f-43f2-93f6-7f44a90f8765" 
+       style="border-radius: 15px;" />
+</a>
 
 <a href="https://news.janegoodall.org/2025/07/11/voices-of-gombe-what-comes-next/">
   <img width="775" alt="voices_of_gombe" 

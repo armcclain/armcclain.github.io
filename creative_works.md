@@ -91,6 +91,11 @@ looking for help on your next conference poster or graphical abstract? i provide
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/ba370982-70ff-447f-be86-80ee9bc45a23" alt="Hart Foam Poster Print" />
     </div>
+
+   <div class="swiper-slide">
+      <img src="https://github.com/user-attachments/assets/f12ac816-8b11-4a6f-9f81-585962f29d8f" alt="GombeFig" />
+    </div>
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/f53f856d-65e8-4a31-887d-3fed6d8be2ac" alt="Large Square Sign" />
     </div>

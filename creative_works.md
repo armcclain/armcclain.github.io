@@ -10,7 +10,6 @@ in my free time you will find me fiddling with hex codes and designing graphics 
 looking for help on your next conference poster or graphical abstract? i provide internal scientific figure and illustration consulting for the gw department of anthropology and center for the advanced study of human paleobiology. please fill out <a href="https://forms.gle/z6iCFrp91VSD4P3m8" style="color: #840032;"><strong>this form</strong></a> to get started!
 
 
-
 <!-- Swiper.js CDN -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
 <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
@@ -93,7 +92,7 @@ looking for help on your next conference poster or graphical abstract? i provide
     </div>
 
    <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/f12ac816-8b11-4a6f-9f81-585962f29d8f" alt="GombeFig" />
+      <img src="https://github.com/user-attachments/assets/153ed34a-eea1-4782-a59b-2ff1ff7d8070" alt="GombeFig" />
     </div>
 
     <div class="swiper-slide">

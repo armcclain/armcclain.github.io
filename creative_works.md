@@ -6,8 +6,12 @@ layout: page
 
 in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming. want to talk art and science? drop me a line. 
 
+i'm working on a more comprehensive <a href="https://armcclain.github.io/low-speed-spoon/" style="color: #840032;"><strong>portfolio space</strong></a>/ - it's still a work in progress, updates soon!
+
+
+
 <h2> <a href="https://forms.gle/z6iCFrp91VSD4P3m8" style="color: #840032;"> <strong>design request form</strong></a></h2>
-looking for help on your next conference poster or graphical abstract? i provide internal scientific figure and illustration consulting for the gw department of anthropology and center for the advanced study of human paleobiology. please fill out <a href="https://forms.gle/z6iCFrp91VSD4P3m8" style="color: #840032;"><strong>this form</strong></a> to get started!
+looking for help on your next conference poster or graphical abstract? i provide internal scientific figure and illustration consulting for the gw department of anthropology and center for the advanced study of human paleobiology.  please fill out <a href="https://forms.gle/z6iCFrp91VSD4P3m8" style="color: #840032;"><strong>this form</strong></a> to get started!
 
 
 <!-- Swiper.js CDN -->

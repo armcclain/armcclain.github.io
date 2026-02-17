@@ -98,7 +98,7 @@ looking for help on your next conference poster or graphical abstract? i provide
     </div>
 
      <div class="swiper-slide">
-      <img src="assets/images/Golden_Poster_Ill.png" alt="Hart Foam Poster Print" />
+      <img src="/assets/images/Golden_Poster_Ill.png" alt="Golden Primates" />
     </div>
 
    <div class="swiper-slide">

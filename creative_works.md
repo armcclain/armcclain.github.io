@@ -101,10 +101,6 @@ looking for help on your next conference poster or graphical abstract? i provide
       <img src="/assets/images/Golden_Poster_Ill.png" alt="Golden Primates" />
     </div>
 
-   <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/153ed34a-eea1-4782-a59b-2ff1ff7d8070" alt="GombeFig" />
-    </div>
-
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/f53f856d-65e8-4a31-887d-3fed6d8be2ac" alt="Large Square Sign" />
     </div>

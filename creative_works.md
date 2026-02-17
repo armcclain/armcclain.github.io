@@ -6,7 +6,7 @@ layout: page
 
 in my free time you will find me fiddling with hex codes and designing graphics for dc community groups and university programming. want to talk art and science? drop me a line. 
 
-i'm working on a more comprehensive <a href="https://armcclain.github.io/low-speed-spoon/" style="color: #840032;"><strong>portfolio space</strong></a>/ - it's still a work in progress, updates soon!
+i'm working on a more comprehensive <a href="https://armcclain.github.io/low-speed-spoon/" style="color: #840032;"><strong>portfolio space</strong></a> - it's still a work in progress, updates soon!
 
 
 
@@ -90,9 +90,15 @@ looking for help on your next conference poster or graphical abstract? i provide
 
 <!-- Swiper Carousel -->
 <div class="swiper-container">
+
   <div class="swiper-wrapper">
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/ba370982-70ff-447f-be86-80ee9bc45a23" alt="Hart Foam Poster Print" />
+    </div>
+
+     <div class="swiper-slide">
+      <img src="assets/images/Golden_Poster_Ill.png" alt="Hart Foam Poster Print" />
     </div>
 
    <div class="swiper-slide">
@@ -102,24 +108,31 @@ looking for help on your next conference poster or graphical abstract? i provide
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/f53f856d-65e8-4a31-887d-3fed6d8be2ac" alt="Large Square Sign" />
     </div>
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/e42e7276-77db-4e96-ae89-20fc1ac4855a" alt="Can I Sleep in Your Brain" />
     </div>
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/ff6f7746-7416-4731-8849-f7f94fd656fd" alt="CASHP 25" />
     </div>
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/5f6a6da3-7e6a-43eb-9227-31571331c840" alt="Primatology" />
     </div>
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/e127deab-311e-43a2-a6df-678c4cf75083" alt="Archaeology" />
     </div>
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/c010d3dd-6322-488a-999b-34f60f173270" alt="Mind/Brain" />
     </div>
+
     <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/98e95945-1ceb-492c-a135-e4e293100325" alt="Paleoarchaeology" />
     </div>
+
   </div>
 
   <!-- Navigation Buttons -->

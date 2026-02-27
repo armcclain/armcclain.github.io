@@ -117,18 +117,6 @@ looking for help on your next conference poster or graphical abstract? i provide
       <img src="https://github.com/user-attachments/assets/5f6a6da3-7e6a-43eb-9227-31571331c840" alt="Primatology" />
     </div>
 
-    <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/e127deab-311e-43a2-a6df-678c4cf75083" alt="Archaeology" />
-    </div>
-
-    <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/c010d3dd-6322-488a-999b-34f60f173270" alt="Mind/Brain" />
-    </div>
-
-    <div class="swiper-slide">
-      <img src="https://github.com/user-attachments/assets/98e95945-1ceb-492c-a135-e4e293100325" alt="Paleoarchaeology" />
-    </div>
-
   </div>
 
   <!-- Navigation Buttons -->

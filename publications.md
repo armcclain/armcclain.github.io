@@ -6,7 +6,7 @@ layout: page
 
 ## coming soon...
 
-### in revision
+### accepted - find this in an upcomming edition of <a href="https://www.sciencedirect.com/journal/animal-behaviour" style="color: #840032;"><i>animal behaviour</i></a>
 
 **McClain A.R.**, Foerster S., Feldblum, J. F., Walker K. S., Mjungu, D. C., Pusey A. E., & Murray C. M. <br>
 	<span class="tab">Drivers of range shifts in female wild eastern chimpanzees (*P. t. schweinfurthii*) following female death events. <span>

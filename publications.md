@@ -9,9 +9,11 @@ layout: page
 ### accepted 
 
 **McClain A.R.**, Foerster S., Feldblum, J. F., Walker K. S., Mjungu, D. C., Pusey A. E., & Murray C. M. <br>
-	<span class="tab">Drivers of range shifts in female wild eastern chimpanzees (*P. t. schweinfurthii*) following female death events.<span> 
+	<span class="tab">Drivers of range shifts in female wild eastern chimpanzees (*P. t. schweinfurthii*) following female death events.</span> 
 	
-excited to announce the first chapter of my dissertation has been accepted for publication in an upcomming edition of <a href="https://www.sciencedirect.com/journal/animal-behaviour" style="color: #840032;"><i>animal behaviour</i></a>. the paper explores the influence female friendships have on habitat use and how ranging behavior changes after the loss of a close friend. we found that after the death of stronger partners, female chimpanzees at gombe move away from areas they previously shared with a friend. for adult females, the loss of a mother or a daughter also came with the loss of habitat quality. check back soon to read our thoughts on these results, why gombe represents a unique place to study the dynamics of female bond, and more!
+> I'm excited to announce the first chapter of my dissertation has been accepted for publication in an upcomming edition of <a href="https://www.sciencedirect.com/journal/animal-behaviour" style="color: #840032;"><i>animal behaviour</i></a>. the paper explores the influence female friendships have on habitat use and how ranging behavior changes after the loss of a close friend. 
+>
+>we found that after the death of stronger partners, female chimpanzees at gombe move away from areas they previously shared with a friend. for adult females, the loss of a mother or a daughter also came with the loss of habitat quality. check back soon to read our thoughts on these results, why gombe represents a unique place to study the dynamics of female bond, and more!
 	
 
 ### in prep

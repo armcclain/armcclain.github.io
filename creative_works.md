@@ -106,6 +106,10 @@ looking for help on your next conference poster or graphical abstract? i provide
     </div>
 
     <div class="swiper-slide">
+      <img src="assets/images/ant fishing.pdf" alt="ant_fishing_viz" />
+    </div>
+
+    <div class="swiper-slide">
       <img src="https://github.com/user-attachments/assets/e42e7276-77db-4e96-ae89-20fc1ac4855a" alt="Can I Sleep in Your Brain" />
     </div>
 

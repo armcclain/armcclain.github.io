@@ -106,7 +106,7 @@ looking for help on your next conference poster or graphical abstract? i provide
     </div>
 
     <div class="swiper-slide">
-      <img src="assets/images/ant fishing@300x.png" alt="ant_fishing_viz" />
+      <img src="/assets/images/ant fishing@300x.png" alt="ant_fishing_viz" />
     </div>
 
     <div class="swiper-slide">

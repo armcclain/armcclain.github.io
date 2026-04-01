@@ -11,6 +11,13 @@ permalink: /as seen in/
        style="border-radius: 15px;" />
 </a>
 
+<a href="https://leakeyfoundation.org/a-day-in-the-field-at-gombe/">
+  <img width="775" alt="ditl" 
+       src="/assets/images/ditl.png" alt="day in the life" 
+       style="border-radius: 15px;" />
+</a>
+
+
 <a href="https://leakeyfoundation.org/abby-mcclain-examining-grief-and-loss-at-gombe/">
   <img width="775" alt="leakey_feature" 
        src="https://github.com/user-attachments/assets/cdd86060-dbc9-4b22-89c2-22c7e13f9032" 

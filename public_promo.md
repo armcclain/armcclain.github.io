@@ -6,7 +6,7 @@ permalink: /as seen in/
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
 
 <a href="https://www.si.edu/events/detail?trumbaEmbed=eventid%3D199021989%26seotitle%3DHow-to-Chase-a-Chimpanzee-and-Other-Tales-from-the-Field%26key%3Db8fad1ab81f476009fd69cc07dcd2869%26view%3Devent%26-childview%3D%26returnUrl%3Dhttps%253A%252F%252Fwww.si.edu%252Fevents%252Fonline%253FtrumbaEmbed%253Dview%25253Dseries%252526seriesid%25253D326736">
-  <img width="775" alt="leakey_feature" 
+  <img width="775" alt="EII" 
        src="/assets/images/EII.png" alt="expert is in" 
        style="border-radius: 15px;" />
 </a>

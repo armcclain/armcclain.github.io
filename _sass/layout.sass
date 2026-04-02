@@ -38,24 +38,27 @@ footer nav a
 /* Mobile-Specific Styles (768px and below) */
 @media (max-width: 768px)
   body > header, body > footer
-    display: flex          // Ensure flex is active to use directions
-    flex-direction: column  // Stack vertically on mobile
+    display: flex          
+    flex-direction: column  // Stacks the "hi! i'm abby..." and the Nav
     align-items: flex-start
-    padding: 1em
+    padding: 1.5em 1em      // Matches your article padding for a clean line
 
   nav
-    margin: 1em 0
+    margin: 1em 0 0 0       // Remove the negative desktop margins
     display: flex
-    flex-wrap: wrap        // Allows links to wrap to a second line if too long
-    gap: 15px              // Modern way to add space between links
+    flex-direction: column  // FORCES links to stack vertically
+    width: 100%             // Ensures the nav spans the header width
+    gap: 10px               // Consistent vertical spacing
 
   header nav a, footer nav a
-    display: inline-block
-    padding: 12px 0        // Increase touch target size for thumbs
+    display: block          // Each link takes its own full line
+    padding: 8px 0          // Easier to tap
+    margin: 0               // Clear desktop margins
     font-size: 1.1em
+    width: 100%             // Ensures the clickable area is wide
 
   article
-    padding: 1.5em 1em     // Slightly more breathing room on sides
+    padding: 1.5em 1em     
     
   article header h1
     font-size: 1.4em

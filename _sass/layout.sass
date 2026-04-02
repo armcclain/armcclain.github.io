@@ -34,28 +34,46 @@ footer nav a
   margin: .5em 1.2em
   text-decoration: none
   color: #840032 /* Footer-specific color */
-
 /* Mobile-Specific Styles (768px and below) */
 @media (max-width: 768px)
-  body > header, body > footer
+  // Header specifically stacks vertically
+  body > header
     display: flex          
-    flex-direction: column  // Stacks the "hi! i'm abby..." and the Nav
+    flex-direction: column
     align-items: flex-start
-    padding: 1.5em 1em      // Matches your article padding for a clean line
+    padding: 1.5em 1em
 
-  nav
-    margin: 1em 0 0 0       // Remove the negative desktop margins
+  header nav
+    margin: 1em 0 0 0
     display: flex
-    flex-direction: column  // FORCES links to stack vertically
-    width: 100%             // Ensures the nav spans the header width
-    gap: 10px               // Consistent vertical spacing
+    flex-direction: column // Header links stack
+    width: 100%
+    gap: 10px
 
-  header nav a, footer nav a
-    display: block          // Each link takes its own full line
-    padding: 8px 0          // Easier to tap
-    margin: 0               // Clear desktop margins
+  header nav a
+    display: block
+    padding: 8px 0
+    margin: 0
     font-size: 1.1em
-    width: 100%             // Ensures the clickable area is wide
+
+  // Footer specifically stays horizontal
+  body > footer
+    display: flex
+    flex-direction: row    // Keeps footer items side-by-side
+    flex-wrap: wrap        // Allows them to wrap only if they run out of space
+    justify-content: space-between
+    align-items: center
+    padding: 1.5em 1em
+
+  footer nav
+    display: flex
+    flex-direction: row    // Keeps footer links in a line
+    margin: 0
+    gap: 15px
+
+  footer nav a
+    display: inline-block
+    padding: 10px 5px      // Wide enough to tap but stays on one line
 
   article
     padding: 1.5em 1em     
